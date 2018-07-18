@@ -1,3 +1,3 @@
 # Assignment1
 
-The purpose of this assignment is for introducting pyhton, numpy, pandas and jupter notebook.
+This assignment is for introducting Pyhton, Numpy, Pandas and Jupyter Notebook.
