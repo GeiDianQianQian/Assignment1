@@ -81,8 +81,7 @@ def pivot_months_loops(data):
     counts = pd.DataFrame(
         data=obs_count,
         index=stations,
-        columns=months,
-    )
+        columns=months,)
     counts.index.name = 'name'
     counts.columns.name = 'month'
     #print(totals, counts)
